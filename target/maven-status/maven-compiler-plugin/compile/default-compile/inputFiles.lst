@@ -1,0 +1,16 @@
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/impl/SorensenDice.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/model/Listing.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/tree/BkTree.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/model/Product.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/api/StringSimilarity.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/model/Result.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/api/MetricStringDistance.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/tree/IllegalMetricException.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/tree/MutableBkTree.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/impl/BaseShingle.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/impl/Damerau.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/ProductListing.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/tree/BkTreeSearcher.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/api/NormalizedStringDistance.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/api/NormalizedStringSimilarity.java
+/Users/narain/sortable/ProductListings/src/main/java/com/sortable/similarity/api/StringDistance.java
